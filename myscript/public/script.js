@@ -1,3 +1,5 @@
+
+alert("Script loaded from Vercel");
 console.log("External script loaded");
 
 const p = document.createElement("p");
